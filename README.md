@@ -17,22 +17,18 @@
 ---
 
 🛠 **Tech Stack & Tools**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-3776AB?style=flat&logo=react&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-3776AB?style=flat&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3776AB?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-336791?style=flat&logo=sqlite&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![QEMU](https://img.shields.io/badge/-QEMU-FCC624?style=flat&logo=qemu&logoColor=black)
-![ROS2](https://img.shields.io/badge/-ROS2-FCC624?style=flat&logo=ros2&logoColor=black)
+| Language | Frameworks | Database | Tools | OS |
+| --- | --- | ---| --- | --- |
+| [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) |[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) | [![Git](https://img.shields.io/badge/Git-336791?logo=git&logoColor=white)](#) | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) |
+| [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#) | 	[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | ![Docker](https://img.shields.io/badge/-Docker-336791?style=flat&logo=docker&logoColor=white) | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) |
+|[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) |  ![QEMU](https://img.shields.io/badge/-QEMU-336791?style=flat&logo=qemu&logoColor=black)  |	[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)  |
+|[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | ![ROS2](https://img.shields.io/badge/-ROS2-3776AB?style=flat&logo=ros2&logoColor=black) |  | ![CMake](https://img.shields.io/badge/-CMake-336791?style=flat&logo=cmake&logoColor=white) |[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)|
+| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | 	[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#) | | | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) |
+| [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) | [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#) | | | |
+
+</dev>
 
 ---
 
