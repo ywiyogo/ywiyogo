@@ -9,7 +9,7 @@
 
 - 🚀 Founder & Director at **[Yobotics Pte. Ltd](https://yobotics.dev)** – building impactful solutions across industries
 - 🔧 I’ve engineered systems in diverse domains:  
-  🚗 Automotive | 🛡 Defense | 🤖 Robotics | 💻 Embedded Systems | 🌐 Full-Stack Web
+  🚗 Automotive | 🤖 Robotics | 💻 Embedded Systems | 🌐 Full-Stack Web
 - 👨‍💻 I bridge low-level firmware with high-level cloud platforms, applying best practices from each domain
 - 💬 I’m passionate about system design, performance, and clean architecture – from microcontrollers to microservices
 - 🤝 Open to partnerships, mentoring, and tech leadership opportunities
@@ -24,6 +24,7 @@
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3776AB?style=flat&logo=react&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-3776AB?style=flat&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3776AB?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
